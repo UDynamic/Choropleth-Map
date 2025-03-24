@@ -8,6 +8,8 @@ This project is a **Choropleth Map** built with **D3.js**, visualizing education
 
 ---
 
+![Choropleth Map Preview](preview.png)
+
 ### **🎯 Features**  
 ✅ Interactive **color-coded** U.S. map  
 ✅ **Tooltips** showing county-level education data on hover  
